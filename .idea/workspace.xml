@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7bb5e00-7ded-4397-9da8-327c0b9dcb4e" name="Default Changelist" comment="" />
+    <list default="true" id="e7bb5e00-7ded-4397-9da8-327c0b9dcb4e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/packages/server/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1tCa9pvTqKZNeoFjBvonoWSG5O1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,7 +36,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622275376761</updated>
-      <workItem from="1622275378483" duration="591000" />
+      <workItem from="1622275378483" duration="1193000" />
     </task>
     <servers />
   </component>
@@ -41,21 +48,25 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="502" y="297" width="362" height="207" key="Github.ShareDialog/0.27.1366.741@0.27.1366.741" timestamp="1622276261581" />
-    <state width="1320" height="172" key="GridCell.Tab.0.bottom" timestamp="1622276100391">
+    <state x="415" y="84" width="526" height="633" key="Github.UntrackedFilesDialog" timestamp="1622276267690">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="172" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1622276100391" />
-    <state width="1320" height="172" key="GridCell.Tab.0.center" timestamp="1622276100390">
+    <state x="415" y="84" width="526" height="633" key="Github.UntrackedFilesDialog/0.27.1366.741@0.27.1366.741" timestamp="1622276267690" />
+    <state width="1320" height="172" key="GridCell.Tab.0.bottom" timestamp="1622276269341">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="172" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1622276100390" />
-    <state width="1320" height="172" key="GridCell.Tab.0.left" timestamp="1622276100390">
+    <state width="1320" height="172" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1622276269341" />
+    <state width="1320" height="172" key="GridCell.Tab.0.center" timestamp="1622276269340">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="172" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1622276100390" />
-    <state width="1320" height="172" key="GridCell.Tab.0.right" timestamp="1622276100391">
+    <state width="1320" height="172" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1622276269340" />
+    <state width="1320" height="172" key="GridCell.Tab.0.left" timestamp="1622276269340">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="172" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1622276100391" />
+    <state width="1320" height="172" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1622276269340" />
+    <state width="1320" height="172" key="GridCell.Tab.0.right" timestamp="1622276269341">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="172" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1622276269341" />
   </component>
 </project>
