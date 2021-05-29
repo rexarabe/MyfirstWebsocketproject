@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7bb5e00-7ded-4397-9da8-327c0b9dcb4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/packages/server/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e7bb5e00-7ded-4397-9da8-327c0b9dcb4e" name="Default Changelist" comment="Add git ignore in packages/server">
+      <change beforePath="$PROJECT_DIR$/packages/server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/server/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,12 +35,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622275376761</updated>
-      <workItem from="1622275378483" duration="1193000" />
+      <workItem from="1622275378483" duration="1567000" />
     </task>
+    <task id="LOCAL-00001" summary="Add git ignore in packages/server">
+      <created>1622276598280</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622276598280</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add git ignore in packages/server" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add git ignore in packages/server" />
   </component>
   <component name="WindowStateProjectService">
     <state x="502" y="297" width="362" height="207" key="Github.ShareDialog" timestamp="1622276261581">
@@ -52,21 +63,25 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="415" y="84" width="526" height="633" key="Github.UntrackedFilesDialog/0.27.1366.741@0.27.1366.741" timestamp="1622276267690" />
-    <state width="1320" height="172" key="GridCell.Tab.0.bottom" timestamp="1622276269341">
+    <state width="1320" height="172" key="GridCell.Tab.0.bottom" timestamp="1622276612600">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="172" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1622276269341" />
-    <state width="1320" height="172" key="GridCell.Tab.0.center" timestamp="1622276269340">
+    <state width="1320" height="172" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1622276612600" />
+    <state width="1320" height="172" key="GridCell.Tab.0.center" timestamp="1622276612599">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="172" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1622276269340" />
-    <state width="1320" height="172" key="GridCell.Tab.0.left" timestamp="1622276269340">
+    <state width="1320" height="172" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1622276612599" />
+    <state width="1320" height="172" key="GridCell.Tab.0.left" timestamp="1622276612599">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="172" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1622276269340" />
-    <state width="1320" height="172" key="GridCell.Tab.0.right" timestamp="1622276269341">
+    <state width="1320" height="172" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1622276612599" />
+    <state width="1320" height="172" key="GridCell.Tab.0.right" timestamp="1622276612600">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="172" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1622276269341" />
+    <state width="1320" height="172" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1622276612600" />
+    <state x="278" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1622276601770">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1622276601770" />
   </component>
 </project>
